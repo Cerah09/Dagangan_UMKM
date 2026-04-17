@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DaganganUMKM</string>
+    <string name="gambar" translatable="false">Gambar  %1$s</string>
+    <string name="lanjut" translatable="false">Lanjut</string>
+    <string name="pria" translatable="false">Pria</string>
+    <string name="wanita" translatable="false">Wanita</string>
+    <string name="Hitung" translatable="false">Hitung</string>
+    <string name="BMI_x" translatable="false">BMI: %1$.2f</string>
+    <string name="ideal" translatable="false">ideal</string>
+    <string name="gemuk" translatable="false">Gemuk</string>
+    <string name="kurus" translatable="false">Kurus</string>
+    <string name="input_invalid" translatable="false">Tidak boleh Kosong.</string>
+    <string name="bmi_intro" translatable="false">HEI ANTEK ANTEK ASEENG JANGAN LUPA OLAHRAGA MAKA DARI HITUNG DULU BERAT BADAN MU
+    ATAU PAK WOWO CEMBERUT</string>
+    <string name="berat_badan" translatable="false">Berat Badan</string>
+    <string     name="Tinggi_badan" translatable="false">Tinggi Badan</string>
+
+
 </resources>
